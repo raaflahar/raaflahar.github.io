@@ -21,7 +21,7 @@ export default function Portfolio() {
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
                 <img
-                  src="src\assets\img\portfolio\1-todo-list-app.png"
+                  src="public\img\portfolio\1-todo-list-app.png"
                   alt="To Do List"
                   className="w-full"
                 />
@@ -46,7 +46,7 @@ export default function Portfolio() {
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
                 <img
-                  src="src\assets\img\portfolio\2-random-quote-generator.png"
+                  src="public\img\portfolio\2-random-quote-generator.png"
                   alt="Random Quote Generator"
                   className="w-full"
                 />
