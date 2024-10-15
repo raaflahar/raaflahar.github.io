@@ -40,7 +40,7 @@ export default function Navbar() {
               Home
             </a>
           </div>
-          <div className="px-4 lg:flex md:hidden sm:hidden">
+          <div name="menu-bar" className="px-4 lg:flex hidden">
             <a href="#about" className="website-menu">
               About Me
             </a>
