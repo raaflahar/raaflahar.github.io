@@ -32,7 +32,7 @@ export default function Hero() {
           <div className="w-full self-end px-4 lg:w-1/2 lg:flex lg:justify-center">
             <div className="mt-10">
               <img
-                src="src\assets\img\aflah.png"
+                src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/aflah.png?raw=true"
                 alt="Aflah Agus Rizkika"
                 className="max-w-[150px] mx-auto rounded-full shadow-lg border-4 border-primary hover:scale-110 transition-transform duration-500 ease-in-out hover:shadow-xl lg:max-w-[200px] hover:bg-secondary"
               />
