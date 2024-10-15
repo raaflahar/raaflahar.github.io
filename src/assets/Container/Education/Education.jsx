@@ -17,7 +17,7 @@ export default function Experience() {
         <div className="flex justify-center items-center">
           <div className="flex flex-wrap sm:justify-center sm:text-center md:justify-normal md:text-start">
             <img
-              src="https://github.com/raaflahar/raaflahar.github.io/blob/gh-pages/assets/logo-unnes.png?raw=true"
+              src="src\assets\img\education\logo-unnes.png"
               alt="Universitas Negeri Semarang"
               className="w-[125px] rounded-md lg:w-[150px] lg:mx-3"
             />
