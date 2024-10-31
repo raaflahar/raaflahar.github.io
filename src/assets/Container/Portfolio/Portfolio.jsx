@@ -18,7 +18,7 @@ export default function Portfolio() {
             </p>
           </div>
           <div className="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
-            <div id="portflio-section" className="flex flex-col">
+            <div id="portfolio-section" className="flex flex-col">
               <div id="container" className="flex mx-4">
                 <div className="mb-12 p-4 md:w-1/2">
                   <div className="rounded-md shadow-md overflow-hidden">
@@ -48,7 +48,7 @@ export default function Portfolio() {
                 <div className="mb-12 p-4 md:w-1/2">
                   <div className="rounded-md shadow-md overflow-hidden">
                     <img
-                      src="src\assets\img\portfolio\3-orwellian.png"
+                      src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/3-orwellian.png?raw=true"
                       alt="Orwellian"
                       className="w-full"
                     />
@@ -108,7 +108,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <div
-                id="button-more-portoflio"
+                id="button-more-portfolio"
                 className="flex justify-center items-center"
               >
                 <a
