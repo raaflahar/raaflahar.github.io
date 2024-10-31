@@ -1,8 +1,33 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Personal Portfolio
 
-Currently, two official plugins are available:
+Welcome to my Personal Portfolio! This website showcases my skills and projects in web development, built using **React** and **Tailwind CSS** with **Vite** as the build tool.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Table of Contents
+
+- [Portfolio](#portfolio)
+- [Personal Portfolio](#personal-portfolio)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [📝 About the Project](#-about-the-project)
+  - [🛠️ Built With](#️-built-with)
+  - [✨ Features](#-features)
+
+## 📝 About the Project
+
+This is a personal portfolio website designed to highlight my web development projects and skills. As a graduate in **Physics** with a passion for **Web Development**, this portfolio reflects my journey and expertise, as well as my ability to turn ideas into digital realities.
+
+## 🛠️ Built With
+
+- **React** - JavaScript library for building user interfaces
+- **Tailwind CSS** - Utility-first CSS framework for custom designs
+- **Vite** - Fast build tool for modern web projects
+- **GitHub Pages** - Hosting platform for the live demo
+
+## ✨ Features
+
+- **Responsive Design** - Adapted for desktops, tablets, and mobile devices
+- **Hero Section** - Personal introduction with contact link
+- **Projects Showcase** - Display of my recent web development projects
+- **About Me** - Background information and skills
+- **Contact Form** - Easy way for visitors to reach me

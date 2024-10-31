@@ -22,7 +22,7 @@ export default function Hero() {
             </p>
 
             <a
-              href="https://wa.me/+6282143957521"
+              href="#contact"
               className="text-base font-semibold text-black bg-primary py-3 px-3 rounded-full hover:shadow-lg hover:bg-secondary hover:text-primary transition duration-500 ease-in-out"
             >
               Contact Me
