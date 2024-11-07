@@ -21,12 +21,18 @@ export default function Portfolio() {
             <div id="portfolio-section" className="flex flex-col">
               <div id="container" className="flex mx-4">
                 <div className="mb-12 p-4 md:w-1/2">
-                  <div className="rounded-md shadow-md overflow-hidden">
-                    <img
-                      src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/1-todo-list-app.png?raw=true"
-                      alt="To Do List"
-                      className="w-full"
-                    />
+                  <div className="rounded-md shadow-md overflow-hidden hover:scale-90 transition ease-in-out duration-300">
+                    <a
+                      href="https://todolist-app-swart-seven.vercel.app/"
+                      target="_blank"
+                      className=""
+                    >
+                      <img
+                        src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/1-todo-list-app.png?raw=true"
+                        alt="To Do List"
+                        className="w-full"
+                      />
+                    </a>
                   </div>
                   <h3 className="font-semibold text-xl text-black mt-5 mb-3 hover:text-primary transition ease-in-out duration-100">
                     <a
@@ -46,12 +52,18 @@ export default function Portfolio() {
                   </p>
                 </div>
                 <div className="mb-12 p-4 md:w-1/2">
-                  <div className="rounded-md shadow-md overflow-hidden">
-                    <img
-                      src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/3-orwellian.png?raw=true"
-                      alt="Orwellian"
-                      className="w-full"
-                    />
+                  <div className="rounded-md shadow-md overflow-hidden hover:scale-90 transition ease-in-out duration-300">
+                    <a
+                      href="https://orwellian.vercel.app/"
+                      target="_blank"
+                      className=""
+                    >
+                      <img
+                        src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/3-orwellian.png?raw=true"
+                        alt="Orwellian"
+                        className="w-full"
+                      />
+                    </a>
                   </div>
                   <h3 className="font-semibold text-xl text-black mt-5 mb-3 hover:text-primary transition ease-in-out duration-100">
                     <a
@@ -76,12 +88,18 @@ export default function Portfolio() {
                 className="flex mx-4 justify-center items-center"
               >
                 <div className="mb-12 p-4 md:w-1/2">
-                  <div className="rounded-md shadow-md overflow-hidden">
-                    <img
-                      src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/2-random-quote-generator.png?raw=true"
-                      alt="Random Quote Generator"
-                      className="w-full"
-                    />
+                  <div className="rounded-md shadow-md overflow-hidden hover:scale-90 transition ease-in-out duration-300">
+                    <a
+                      href="https://random-quote-generator-six-roan.vercel.app/"
+                      target="_blank"
+                      className=""
+                    >
+                      <img
+                        src="https://github.com/raaflahar/raaflahar.github.io/blob/main/src/assets/img/portfolio/2-random-quote-generator.png?raw=true"
+                        alt="Random Quote Generator"
+                        className="w-full"
+                      />
+                    </a>
                   </div>
                   <h3 className="font-semibold text-xl text-black mt-5 mb-3 hover:text-primary transition ease-in-out duration-100">
                     <a
