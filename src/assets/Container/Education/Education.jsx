@@ -41,7 +41,7 @@ export default function Experience() {
               <p className="text-base text-white">
                 Certification:{" "}
                 <a
-                  href="https://drive.google.com/file/d/183JzDBixU9kyHUAMroBQn8ULcb_jccZi/view"
+                  href="https://drive.google.com/file/d/1Hi19ua6yI1rkh6xbA8p_-5Dpmky_9Cun/view?usp=sharing"
                   className="hover:text-primary"
                   target="_blank"
                 >
