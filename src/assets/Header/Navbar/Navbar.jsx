@@ -55,7 +55,7 @@ export default function Navbar() {
                     Resume
                   </a>
                 </div>
-                <div className="flex items-center px-16 sm:hidden">
+                <div className="flex items-center px-30 sm:hidden">
                     <button
                     id="hamburger"
                     name="hamburger"

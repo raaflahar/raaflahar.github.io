@@ -2,7 +2,7 @@
 @import "src/index.css";
 
 .picture-container{
-    @apply rounded-md shadow-md w-[180px] overflow-hidden sm:hover:scale-90 sm:transition sm:ease-in-out sm:duration-300 sm:w-[400px] lg:w-[700px]
+    @apply rounded-md shadow-md w-[300px] overflow-hidden sm:hover:scale-90 sm:transition sm:ease-in-out sm:duration-300 sm:w-[400px] lg:w-[700px]
 }
 
 .button-container{

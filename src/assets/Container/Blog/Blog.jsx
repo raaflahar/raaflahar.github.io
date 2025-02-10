@@ -13,7 +13,7 @@ export default function Blog() {
             </p>
           </div>
           <div className="flex flex-wrap">
-            <div className="w-[150px] sm:w-[200px] lg:w-[400px] px-2 sm:px-4">
+            <div className="w-[350px] sm:w-[400px] lg:w-[400px] px-2 sm:px-4">
               <a
                 href="https://raaflahar.medium.com/richest-customer-wealth-leetcode-1672-js-php-solution-dc7d64ff0b13"
                 target="_blank"
@@ -37,7 +37,7 @@ export default function Blog() {
                 </div>
               </a>
             </div>
-            <div className="w-[150px] sm:w-[200px] lg:w-[400px] px-2 sm:px-4">
+            <div className="w-[350px] sm:w-[400px] lg:w-[400px] px-2 sm:px-4">
               <a
                 href="https://medium.com/@raaflahar/ph-4502c-sensor-diymore-how-to-use-and-calibrate-using-arduino-uno-r3-3afc2b96631"
                 target="_blank"
@@ -61,7 +61,7 @@ export default function Blog() {
                 </div>
               </a>
             </div>
-            <div className="w-[150px] sm:w-[200px] lg:w-[400px] px-2 sm:px-4">
+            <div className="w-[350px] sm:w-[400px] lg:w-[400px] px-2 sm:px-4">
               <a
                 href="https://medium.com/@raaflahar/registration-form-cf8c94c2fa74"
                 target="_blank"
