@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "src/index.css";
+
+paragraph-text {
+    @apply text-xs sm:text-sm lg:text-base text-white;
+}

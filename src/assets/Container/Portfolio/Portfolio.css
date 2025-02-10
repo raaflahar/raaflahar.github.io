@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "src/index.css";
+
+.picture-container{
+    @apply rounded-md shadow-md w-[180px] overflow-hidden sm:hover:scale-90 sm:transition sm:ease-in-out sm:duration-300 sm:w-[400px] lg:w-[700px]
+}
+
+.button-container{
+    @apply flex justify-center font-semibold text-base text-black mt-5 mb-3 hover:text-primary transition ease-in-out duration-100 sm:text-lg lg:text-xl
+}
+
+.text-container{
+    @apply text-white text-xs sm:text-sm lg:text-base
+}
